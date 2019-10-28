@@ -1,0 +1,4 @@
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\bin\Release\Plugin.dll
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\bin\Release\Plugin.pdb
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\obj\Release\Plugin.dll
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\obj\Release\Plugin.pdb

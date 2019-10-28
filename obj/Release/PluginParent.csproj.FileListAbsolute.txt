@@ -1,0 +1,9 @@
+C:\Users\s.anisimov\source\repos\PluginParent\Сумма и среднее всех чисел\bin\Release\PluginParent.dll
+C:\Users\s.anisimov\source\repos\PluginParent\Сумма и среднее всех чисел\bin\Release\PluginParent.pdb
+C:\Users\s.anisimov\source\repos\PluginParent\Сумма и среднее всех чисел\obj\Release\PluginParent.csproj.CoreCompileInputs.cache
+C:\Users\s.anisimov\source\repos\PluginParent\Сумма и среднее всех чисел\obj\Release\PluginParent.dll
+C:\Users\s.anisimov\source\repos\PluginParent\Сумма и среднее всех чисел\obj\Release\PluginParent.pdb
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\bin\Release\PluginParent.dll
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\bin\Release\PluginParent.pdb
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\obj\Release\PluginParent.dll
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\obj\Release\PluginParent.pdb
