@@ -1,0 +1,10 @@
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\bin\Release\Plugin.dll
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\bin\Release\Plugin.pdb
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\obj\Release\Plugin.dll
+C:\Users\s.anisimov\Documents\BackUp\MyRepos\PluginParent\Плагины\Расшифровка имени прошивки\obj\Release\Plugin.pdb
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\bin\Release\Plugin.dll
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\bin\Release\Plugin.pdb
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Release\Plugin.Window.resources
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Release\Plugin.csproj.GenerateResource.cache
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Release\Plugin.dll
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Release\Plugin.pdb
