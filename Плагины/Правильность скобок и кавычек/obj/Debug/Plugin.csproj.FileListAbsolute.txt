@@ -1,0 +1,7 @@
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\bin\Debug\Plugin.dll
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\bin\Debug\Plugin.pdb
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Debug\Plugin.Window.resources
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Debug\Plugin.csproj.GenerateResource.cache
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Debug\Plugin.dll
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Debug\Plugin.pdb
+C:\Users\s.anisimov\source\repos\Plugins-for-Smart2Text\Плагины\Не придумал\obj\Debug\Plugin.csprojAssemblyReference.cache
