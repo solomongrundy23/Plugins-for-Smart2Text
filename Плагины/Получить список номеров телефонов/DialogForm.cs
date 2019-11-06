@@ -53,7 +53,9 @@ namespace Plugin
             {
                 if (BackWorking != null)
                     if (BackWorking.IsAlive) BackWorking.Abort();
-                BackWorking = new Thread(delegate () { BackWorkingThread(inner, prefix); });
+                string _inner = inner;
+                string _prefix = prefix;
+                BackWorking = new Thread(delegate () { BackWorkingThread(_inner, _prefix); });
                 BackWorking.IsBackground = true;
                 progressBar1.Visible = true;
                 BackWorking.Start();
