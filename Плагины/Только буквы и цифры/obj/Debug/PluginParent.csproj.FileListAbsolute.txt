@@ -1,0 +1,5 @@
+C:\Users\s.anisimov\source\repos\PluginParent\bin\Debug\PluginParent.dll
+C:\Users\s.anisimov\source\repos\PluginParent\bin\Debug\PluginParent.pdb
+C:\Users\s.anisimov\source\repos\PluginParent\obj\Debug\PluginParent.csproj.CoreCompileInputs.cache
+C:\Users\s.anisimov\source\repos\PluginParent\obj\Debug\PluginParent.dll
+C:\Users\s.anisimov\source\repos\PluginParent\obj\Debug\PluginParent.pdb
